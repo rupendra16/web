@@ -1,0 +1,61 @@
+body {
+    background: #315d78;
+}
+
+h1 {
+    color: white;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#navigation-menu {
+    padding: 20px;
+    background: #e6e6e6;
+}
+
+#navigation-menu a,
+#navigation-menu text {
+    font-family: MontSerrat;
+    text-decoration: none;
+    font-weight: 600;
+    color: rgb(0, 0, 138);
+    font-size: 20px;
+}
+
+#navigation-menu a:hover {
+    color: rgb(0, 0, 194);
+    cursor: pointer;
+}
+
+#hero-area {
+    background: #315d78;
+    padding: 20px;
+    color: white;
+}
+
+.logo {
+    width: 120px;
+    height: 120px;
+}
+
+.block-heading {
+    background: #00436d;
+    padding: 5px;
+    padding-left: 10px;
+    color: white;
+    font-size: 20px;
+    margin: 0px;
+    margin-bottom: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.block-text {
+    background: #e6e6e6;
+    color: #00436d;
+    display: block;
+    padding-left: 10px;
+    padding-top: 1px;
+    padding-bottom: 20px;
+    margin: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
